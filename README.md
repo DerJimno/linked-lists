@@ -1,6 +1,6 @@
 # linked-lists
 
-from theodinproject.com[theodinproject.com]
+from [theodinproject.com](https://www.theodinproject.com/lessons/ruby-linked-lists)
 
 #Assignment
 
